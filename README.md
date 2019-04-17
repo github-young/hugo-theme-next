@@ -1,12 +1,14 @@
-# NexT For Hugo
+# NexT.Gemini For Hugo
 
-A Hugo theme forked from [NexT](https://github.com/iissnan/hexo-theme-next).
+A Hugo theme forked from [Next](https://github.com/xtfly/hugo-theme-next) forked from a Hexo theme [NexT](https://github.com/iissnan/hexo-theme-next).
 
 ## Discription
 
 NexT is a simple and animated theme. I transplanted it from Hexo to [Hugo](https://gohugo.io/) and used in my blog site.
 
 [Preview online](http://www.lanlingzi.cn)
+
+Now I am working to transplant it to Next.Gemini scheme.
 
 ## Usage
 
@@ -60,6 +62,10 @@ NexT is a simple and animated theme. I transplanted it from Hexo to [Hugo](https
 - [x] Support i18n
 - [x] Local Search
 - [x] Syntax Highlighter (thanks to [xulz](https://github.com/xtfly/hugo-theme-next/pull/6))
+- [ ] LaTeX support
+- [ ] Migration from Next.Gemini
+   - [ ] TOC in page
+   - [ ] Capital URL path in `` tags `` and `` categories ``
 
 ## License
 The [MIT License](LICENSE).
