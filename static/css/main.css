@@ -2342,7 +2342,7 @@ body {
   padding: 40px;
   width: 700px;
   background: #fff;
-  min-height: 700px;
+  /* min-height: 700px; */
 }
 @media (min-width: 768px) and (max-width: 991px) {
   .content-wrap {
