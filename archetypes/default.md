@@ -1,10 +1,11 @@
 ---
 title: "xxxx"
-date: "2017-02-03"
-categories:
- - "xx"
-tags:
- - "xxx"
- - "xxx"
+date: {{ .Date }}
+categories: ["categories"]
+tags: ["tag1", "tag2"]
 toc: true
 ---
+
+## xxx
+
+<!--more-->

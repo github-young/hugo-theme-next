@@ -1225,7 +1225,7 @@ pre .javascript .function {
   font-size: 26px;
   text-align: center;
   word-break: break-word;
-  font-weight: 300;
+  font-weight: 500;
 }
 @media (max-width: 767px) {
   .posts-expand .post-title {

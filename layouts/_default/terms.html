@@ -11,7 +11,7 @@
           <ul class="category-list">
                {{ range $name, $items := .Site.Taxonomies.categories }}
               <li class="category-list-item">
-                  <a class="category-list-link" href="/categories/{{ $name | urlize | lower }}">{{ $name }}</a>
+                  <a class="category-list-link" href="/categories/{{ $name | urlize }}">{{ $name }}</a>
               <span class="category-list-count"><sup>{{ len $items }}</sup></span>
               </li>
               {{ end }}
@@ -27,7 +27,7 @@
         </div>
         <div class="tag-cloud-tags">
             {{ range $name, $items := .Site.Taxonomies.tags }}
-             <a href="/tags/{{ $name | urlize | lower  }}" style="font-size: 24.5px; color: #212121">{{ $name }}</a>
+             <a href="/tags/{{ $name | urlize }}" style="font-size: 24.5px; color: #212121">{{ $name }}</a>
              <span class="tag-list-count"><sup>{{ len $items }}</sup></span>
              {{ end }}
         </div>
