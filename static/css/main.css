@@ -2385,7 +2385,7 @@ body {
   content: " ";
   float: left;
   width: 260px;
-  min-height: 50px;
+  min-height: 100px;
 }
 @media (min-width: 768px) and (max-width: 991px) {
   .footer-inner {
