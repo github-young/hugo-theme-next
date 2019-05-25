@@ -1,6 +1,8 @@
 {{ define "main_class"}}{{ end }}
 
 {{ define "main_content" }}
+<div class="content-wrap">
+    <div id="content" class="content">
 <section id="posts" class="posts-collapse">
 <div class="collection-title">
     <h2 >{{ .Title }}
@@ -15,4 +17,6 @@
 {{ end }}
  </section>
 {{ partial "pagination.html" . }}
+</div>
+</div>
 {{ end }}
