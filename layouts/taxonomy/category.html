@@ -3,6 +3,7 @@
 {{ define "main_content" }}
 <div class="content-wrap">
     <div id="content" class="content">
+        <div class="post-block page" style="opacity: 1; display: block;">
 <section id="posts" class="posts-collapse">
 <div class="collection-title">
     <h2 >{{ .Title }}
@@ -16,6 +17,7 @@
 {{ partial "post_simple_list.html" . }}
 {{ end }}
  </section>
+</div>
 {{ partial "pagination.html" . }}
 </div>
 </div>
