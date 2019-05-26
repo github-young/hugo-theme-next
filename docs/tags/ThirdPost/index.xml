@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ThirdPost on 人类的本质是什么</title>
-    <link>https://github-young.github.io/hugo-theme-next/docs/tags/ThirdPost/</link>
+    <link>https://github-young.github.io/hugo-theme-next/tags/ThirdPost/</link>
     <description>Recent content in ThirdPost on 人类的本质是什么</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <lastBuildDate>Thu, 23 May 2019 20:27:01 +0800</lastBuildDate>
     
-	<atom:link href="https://github-young.github.io/hugo-theme-next/docs/tags/ThirdPost/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://github-young.github.io/hugo-theme-next/tags/ThirdPost/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>CapitalTest</title>
-      <link>https://github-young.github.io/hugo-theme-next/docs/post/CapitalTest/</link>
+      <link>https://github-young.github.io/hugo-theme-next/post/CapitalTest/</link>
       <pubDate>Thu, 23 May 2019 20:27:01 +0800</pubDate>
       
-      <guid>https://github-young.github.io/hugo-theme-next/docs/post/CapitalTest/</guid>
+      <guid>https://github-young.github.io/hugo-theme-next/post/CapitalTest/</guid>
       <description>&lt;h2 id=&#34;第2级标题-分类测试&#34;&gt;第2级标题：分类测试&lt;/h2&gt;</description>
     </item>
     

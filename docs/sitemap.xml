@@ -2,7 +2,7 @@
     
      <entry>
         <title>CapitalTest</title>
-        <url>https://github-young.github.io/hugo-theme-next/docs/post/CapitalTest/</url>
+        <url>https://github-young.github.io/hugo-theme-next/post/CapitalTest/</url>
         <categories>
           <category>ACapitalLetter</category>
         </categories>
@@ -18,7 +18,7 @@
     
      <entry>
         <title>Posts</title>
-        <url>https://github-young.github.io/hugo-theme-next/docs/post/</url>
+        <url>https://github-young.github.io/hugo-theme-next/post/</url>
         <categories>
           
         </categories>
@@ -30,7 +30,7 @@
     
      <entry>
         <title>Second</title>
-        <url>https://github-young.github.io/hugo-theme-next/docs/post/second/</url>
+        <url>https://github-young.github.io/hugo-theme-next/post/second/</url>
         <categories>
           <category>Another</category>
         </categories>
@@ -44,7 +44,7 @@
     
      <entry>
         <title>First</title>
-        <url>https://github-young.github.io/hugo-theme-next/docs/post/first/</url>
+        <url>https://github-young.github.io/hugo-theme-next/post/first/</url>
         <categories>
           <category>tech</category>
         </categories>
