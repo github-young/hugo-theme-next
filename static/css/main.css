@@ -464,11 +464,11 @@ body {
 .header-inner {
   margin: 0 auto;
   padding: 100px 0 70px;
-  width: 700px;
+  width: calc(100% - 20px);
 }
 @media (min-width: 1200px) {
   .container .header-inner {
-    /*width: 1160px;*/
+    width: 1160px;
   }
 }
 @media (min-width: 1600px) {
@@ -477,11 +477,11 @@ body {
   }
 }
 .main {
-  padding-bottom: 120px;
+  padding-bottom: initial;
 }
 .main-inner {
   margin: 0 auto;
-  width: 700px;
+  width: calc(100% - 20);
 }
 @media (min-width: 1200px) {
   .container .main-inner {
@@ -503,7 +503,7 @@ body {
 .footer-inner {
   box-sizing: border-box;
   margin: 20px auto;
-  width: 700px;
+  width: calc(100% - 20px);
 }
 @media (min-width: 1200px) {
   .container .footer-inner {
@@ -868,7 +868,7 @@ pre .javascript .function {
 }
 @media (max-width: 767px) {
   .pagination {
-    border-top: none;
+    border-top: initial;
   }
   .pagination .prev,
   .pagination .next,
@@ -2413,12 +2413,12 @@ a.search-result {
 }
 @media (min-width: 768px) and (max-width: 991px) {
   .main {
-    padding-bottom: 100px;
+    padding-bottom: initial;
   }
 }
 @media (max-width: 767px) {
   .main {
-    padding-bottom: 100px;
+    padding-bottom: initial;
   }
 }
 .container .main-inner {
@@ -2437,10 +2437,25 @@ a.search-result {
 .content-wrap-index {
   float: right;
   box-sizing: border-box;
-  /* padding: 40px; */
+  padding: 1px;
   width: 700px;
   background: #eee;
   /* min-height: 700px; */
+}
+@media (min-width: 768px) and (max-width: 991px) {
+  .content-wrap-index {
+    width: 100%;
+    padding: 5px;
+    border-radius: initial;
+  }
+}
+@media (max-width: 767px) {
+  .content-wrap-index {
+    width: 100%;
+    padding: 5px;
+    min-height: auto;
+    border-radius: initial;
+  }
 }
 .content-wrap {
   float: right;
@@ -2804,6 +2819,9 @@ a.search-result {
   font-size: 1.03em;
 }
 @media (min-width: 768px) and (max-width: 991px) {
+  .content-wrap-index {
+    padding: 10px;
+  }
   .content-wrap {
     padding: 10px;
   }
@@ -2830,6 +2848,9 @@ a.search-result {
   }
 }
 @media (max-width: 767px) {
+  .content-wrap-index {
+    padding: 8px;
+  }
   .content-wrap {
     padding: 8px;
   }
@@ -2856,6 +2877,9 @@ a.search-result {
     padding: 0 12px;
   }
   .pagination {
-    margin: 8px 0 0;
+    margin: 20px 0 0;
   }
+}
+.footer {
+  bottom: auto;
 }
