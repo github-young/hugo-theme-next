@@ -1,0 +1,61 @@
+<search>
+    
+     <entry>
+        <title>CapitalTest</title>
+        <url>https://github-young.github.io/hugo-theme-next/docs/post/CapitalTest/</url>
+        <categories>
+          <category>ACapitalLetter</category>
+        </categories>
+        <tags>
+          <tag>ThirdPost</tag>
+        </tags>
+        <content type="html"> 第2级标题：分类测试 第3级标题 大写字母
+第4级标题 写点字
+还是一个第3级标题 啦啦啦
+第二个标题  测试引用
+ cout&amp;lt;&amp;lt;&amp;#34;test&amp;#34;&amp;lt;&amp;lt;endl; sudo apt updateimport thisSystem.out.println(&amp;#34;hello java&amp;#34;)\LaTeX</content>
+    </entry>
+    
+     <entry>
+        <title>Posts</title>
+        <url>https://github-young.github.io/hugo-theme-next/docs/post/</url>
+        <categories>
+          
+        </categories>
+        <tags>
+          
+        </tags>
+        <content type="html"> </content>
+    </entry>
+    
+     <entry>
+        <title>Second</title>
+        <url>https://github-young.github.io/hugo-theme-next/docs/post/second/</url>
+        <categories>
+          <category>Another</category>
+        </categories>
+        <tags>
+          <tag>second</tag>
+        </tags>
+        <content type="html"> second test 中文测试测试
+测试
+</content>
+    </entry>
+    
+     <entry>
+        <title>First</title>
+        <url>https://github-young.github.io/hugo-theme-next/docs/post/first/</url>
+        <categories>
+          <category>tech</category>
+        </categories>
+        <tags>
+          <tag>first</tag>
+        </tags>
+        <content type="html"> Test 1 testtesttestetstetsdnhjasfakjf
+dbfajdabka
+sdbksdbkjasn
+$\LaTeX$
+</content>
+    </entry>
+    
+</search>
