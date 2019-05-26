@@ -1,5 +1,9 @@
 {{ define "main_class"}}page-home{{ end }}
 
 {{ define "main_content" }}
-    {{ partial "post_list.html" . }}
+<div class="content-wrap-index">
+    <div id="content" class="content">
+        {{ partial "post_list.html" . }}
+    </div>
+</div>
 {{ end }}

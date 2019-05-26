@@ -1,6 +1,8 @@
 {{ define "main_class"}}{{ end}}
 
 {{ define "main_content" }}
+<div class="content-wrap">
+    <div id="content" class="content">
 <div id="posts" class="posts-expand">
     {{ if eq .Data.Plural  "categories" }}
      <div class="category-all-page">
@@ -33,5 +35,7 @@
         </div>
        </div>
       {{ end }}
+</div>
+</div>
 </div>
 {{ end }}
