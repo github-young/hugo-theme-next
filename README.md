@@ -1,12 +1,12 @@
 # NexT.Gemini For Hugo
 
-A Hugo theme forked from [Next](https://github.com/xtfly/hugo-theme-next) forked from a Hexo theme [NexT](https://github.com/iissnan/hexo-theme-next).
+A Hugo theme NexT.Gemini forked from a Hugo theme [NexT](https://github.com/xtfly/hugo-theme-next) forked from a Hexo theme [NexT](https://github.com/iissnan/hexo-theme-next).
 
 ## Discription
 
-NexT is a simple and animated theme. I transplanted it from Hexo to [Hugo](https://gohugo.io/) and used in my blog site.
+> NexT is a simple and animated theme. I transplanted it from Hexo to [Hugo](https://gohugo.io/) and used in my blog site.
 
-[Preview online](http://www.lanlingzi.cn)
+[Preview online](https://github-young.github.io/hugo-theme-next/)
 
 Now I am working to transplant it to Next.Gemini scheme.
 
@@ -26,13 +26,13 @@ Now I am working to transplant it to Next.Gemini scheme.
 
 ## Notes
 
-- **Some of the Hexo's styles are not work now** because of the difference between the Hugo template engine and the Hexo. I will update it constantly
+- **Some of the Hexo's styles are not work now** because of the difference between the Hugo template engine and the Hexo. I will NOT update it constantly.
 
 - This theme has been tested only in my blog site. Maybe it's not suitable for your requirements, you can customizate it by your preferences.
 
-- Test in Hugo verion: 0.38
+- Test in Hugo verion: 0.55
 
-- If you have any questions, please give feedback
+- If you have any questions, please give feedback. I will attend to them only if I am very bored and have nothing else to do.
 
 ## Markdown notes
 
@@ -42,16 +42,13 @@ Now I am working to transplant it to Next.Gemini scheme.
     ---
     title: "xxxxxxx"
     date: "2018-06-02"
-    categories:
-    - "技术"
-    tags:
-    - "Rust"
-    - "Programing"
+    categories: ["技术"]
+    tags: ["Rust", "Programing"]
     toc: true
     ---
     ```
 
-1. add `<!--more-->` tag in your markdown for [manual summary splitting](https://gohugo.io/content-management/summaries/#user-defined-manual-summary-splitting) .
+1. add `<!--more-->` tag in your markdown for [manual summary splitting](https://gohugo.io/content-management/summaries/#user-defined-manual-summary-splitting) otherwise the index page looks weird.
 
 
 ## Todo
@@ -62,10 +59,11 @@ Now I am working to transplant it to Next.Gemini scheme.
 - [x] Support i18n
 - [x] Local Search
 - [x] Syntax Highlighter (thanks to [xulz](https://github.com/xtfly/hugo-theme-next/pull/6))
-- [ ] LaTeX support
+- [x] LaTeX support
 - [ ] Migration from Next.Gemini
-   - [ ] TOC in page
-   - [ ] Capital URL path in `` tags `` and `` categories ``
+   - [x] TOC in page
+   - [x] Capital URL path in `` tags `` and `` categories ``
+   - [ ] Exact copy of NexT.Gemini (Such a tiring job. Anyone but me do this.)
 
 ## License
 The [MIT License](LICENSE).
