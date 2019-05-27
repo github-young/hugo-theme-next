@@ -26,13 +26,13 @@ Now I am working to transplant it to Next.Gemini scheme.
 
 ## Notes
 
-- **Some Hexo's styles do not work now** because of the differences between the Hugo template engine and the Hexo. I will NOT update it constantly.
+- **Some Hexo's styles do not work now** because of the differences between the Hugo template engine and the Hexo. (I will NOT update it constantly.)
 
 - This theme has been tested only in my blog site. Maybe it's not suitable for your requirements, you can customize it by your preferences.
 
 - Tested in Hugo version: 0.55
 
-- If you have any questions, please start an issue. I will attend to them only if I have enough time.
+- If you have any questions, please start an issue. (I will attend to them only if I have enough time.)
 
 ## Markdown notes
 
@@ -48,7 +48,7 @@ Now I am working to transplant it to Next.Gemini scheme.
     ---
     ```
 
-1. add `` <!--more--> `` tag in your markdown for [manual summary splitting](https://gohugo.io/content-management/summaries/#user-defined-manual-summary-splitting), otherwise the index page looks weird.
+1. add `` <!--more--> `` tag in your markdown for [manual summary splitting](https://gohugo.io/content-management/summaries/#user-defined-manual-summary-splitting) (, otherwise the index page looks weird.)
 
 
 ## Todo
@@ -66,7 +66,7 @@ The above work was done when I forked it.
 - [ ] Modification to Next.Gemini: 
    - [x] TOC in page
    - [x] Capital URL path in `` tags `` and `` categories ``
-   - [ ] Exact copy of NexT.Gemini (Not finished yet. Closing enough for me.)
+   - [ ] Exact copy of NexT.Gemini (Not finished yet. Close enough for me.)
 
 ## License
 The [MIT License](LICENSE).

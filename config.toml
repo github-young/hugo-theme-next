@@ -1,7 +1,6 @@
-Title =  "人类的本质是什么"
+Title =  "主标题"
 LanguageCode = "zh-CN"
-#BaseUrl = "https://github-young.github.io"
-BaseUrl = "http://114.212.171.69/public/"
+BaseUrl = "https://github-young.github.io"
 Theme =  "hugo-theme-next"
 MetaDataFormat =  "yaml"
 CanonifyUrls =  true
@@ -18,10 +17,10 @@ pygmentsCodefencesGuessSyntax = true
 DefaultContentLanguage = "zh"
 
 [Params]
-  Introduce = "introduce"
-  Description = "description"
-  Keywords =  "kw1, kw2"
-  # Subtitle = "subtitle"
+  Introduce = "简介"
+  Description = "描述"
+  Keywords =  "关键词1，关键词2"
+  Subtitle = "副标题"
   Imglogo = "/img/logo.png"
   AuthorImg = "/img/author.jpg"
   DateFormat = "2006-01-02"
@@ -32,7 +31,7 @@ DefaultContentLanguage = "zh"
   Fancybox = true
 
 [Author]
-  Name = "Author1"
+  Name = "作者"
 
 [Params.Share]
   #DuoShuo = "lanlingzi"
