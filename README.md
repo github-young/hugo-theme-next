@@ -12,9 +12,9 @@ Now I am working to transplant it to Next.Gemini scheme.
 
 ## Usage
 
-1. download theme file: `` git clone https://github.com/xtfly/hugo-theme-next.git next ``.
+1. clone this repo.
 
-2. copy `` next `` directory to themes directory in your hugo site.
+2. copy the cloned `` hugo-theme-next `` directory to `` themes `` directory in your hugo site.
 
 3. move `` config.toml `` to the root directory in your hugo site, and modify it to the actual information for your site.
 
