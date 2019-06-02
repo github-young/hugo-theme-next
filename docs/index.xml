@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>人类的本质是什么</title>
+    <title>主标题</title>
     <link>https://github-young.github.io/hugo-theme-next/</link>
-    <description>Recent content on 人类的本质是什么</description>
+    <description>Recent content on 主标题</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <lastBuildDate>Thu, 23 May 2019 21:05:00 +0800</lastBuildDate>
@@ -21,11 +21,11 @@
     </item>
     
     <item>
-      <title>CapitalTest</title>
-      <link>https://github-young.github.io/hugo-theme-next/post/CapitalTest/</link>
+      <title>ThirdTest</title>
+      <link>https://github-young.github.io/hugo-theme-next/post/ThirdTest/</link>
       <pubDate>Thu, 23 May 2019 20:27:01 +0800</pubDate>
       
-      <guid>https://github-young.github.io/hugo-theme-next/post/CapitalTest/</guid>
+      <guid>https://github-young.github.io/hugo-theme-next/post/ThirdTest/</guid>
       <description>&lt;h2 id=&#34;第2级标题-分类测试&#34;&gt;第2级标题：分类测试&lt;/h2&gt;</description>
     </item>
     
