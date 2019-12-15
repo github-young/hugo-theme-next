@@ -14,7 +14,7 @@
     <meta name="title" content="{{ if ne .Permalink " / " }}{{ .Title }} - {{ end }}{{ .Site.Title }}" />
     {{ with .Description }}<meta name="description" content="{{ . }}" />
     {{ else }}<meta name="description" content="{{ .Site.Params.Description }}">{{ end }} 
-    {{ if .RSSLink }}<link rel="alternate" href="{{.RSSLink}}" title="{{ .Site.Title }}" type="application/rss+xml" />{{ end }}
+    {{ if .RelPermalink }}<link rel="alternate" href="{{.RelPermalink}}" title="{{ .Site.Title }}" type="application/rss+xml" />{{ end }}
     {{ if .Site.Params.Imglogo }}
     <link rel="shortcut icon" href="/img/github.ico" />
     <link rel="apple-touch-icon" href="/img/github.png" />
