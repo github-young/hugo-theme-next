@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on 主标题</title>
@@ -6,7 +6,7 @@
     <description>Recent content in Categories on 主标题</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 23 May 2019 20:27:01 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 15 Dec 2019 18:35:03 +0800</lastBuildDate>
     
 	<atom:link href="https://github-young.github.io/hugo-theme-next/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,25 +14,25 @@
     <item>
       <title>中文分类名</title>
       <link>https://github-young.github.io/hugo-theme-next/categories/%E4%B8%AD%E6%96%87%E5%88%86%E7%B1%BB%E5%90%8D/</link>
-      <pubDate>Thu, 23 May 2019 20:27:01 +0800</pubDate>
+      <pubDate>Sun, 15 Dec 2019 18:35:03 +0800</pubDate>
       
       <guid>https://github-young.github.io/hugo-theme-next/categories/%E4%B8%AD%E6%96%87%E5%88%86%E7%B1%BB%E5%90%8D/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Another</title>
-      <link>https://github-young.github.io/hugo-theme-next/categories/Another/</link>
-      <pubDate>Wed, 22 May 2019 22:23:06 +0800</pubDate>
+      <title>AnotherCategoriy</title>
+      <link>https://github-young.github.io/hugo-theme-next/categories/AnotherCategoriy/</link>
+      <pubDate>Sun, 15 Dec 2019 18:34:53 +0800</pubDate>
       
-      <guid>https://github-young.github.io/hugo-theme-next/categories/Another/</guid>
+      <guid>https://github-young.github.io/hugo-theme-next/categories/AnotherCategoriy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tech</title>
       <link>https://github-young.github.io/hugo-theme-next/categories/tech/</link>
-      <pubDate>Wed, 22 May 2019 21:55:59 +0800</pubDate>
+      <pubDate>Sun, 15 Dec 2019 18:34:46 +0800</pubDate>
       
       <guid>https://github-young.github.io/hugo-theme-next/categories/tech/</guid>
       <description></description>
