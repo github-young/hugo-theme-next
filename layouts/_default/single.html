@@ -21,6 +21,7 @@
     {{ .Content }}
     </div>
     <footer class="post-footer">
+     {{ partial "post/postauthor.html" .}}
      {{ partial "post/tags.html" .}}
      {{ partial "post/prenext.html" .}}
      <!-- {{ partial "widgets/weixin.html" .}} -->
