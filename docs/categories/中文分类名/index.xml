@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>中文分类名 on 主标题</title>
-    <link>https://github-young.github.io/hugo-theme-next/categories/%E4%B8%AD%E6%96%87%E5%88%86%E7%B1%BB%E5%90%8D/</link>
+    <link>http://localhost/categories/%E4%B8%AD%E6%96%87%E5%88%86%E7%B1%BB%E5%90%8D/</link>
     <description>Recent content in 中文分类名 on 主标题</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <lastBuildDate>Sun, 15 Dec 2019 18:35:03 +0800</lastBuildDate>
     
-	<atom:link href="https://github-young.github.io/hugo-theme-next/categories/%E4%B8%AD%E6%96%87%E5%88%86%E7%B1%BB%E5%90%8D/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/categories/%E4%B8%AD%E6%96%87%E5%88%86%E7%B1%BB%E5%90%8D/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>ThirdTest</title>
-      <link>https://github-young.github.io/hugo-theme-next/post/ThirdTest/</link>
+      <link>http://localhost/post/ThirdTest/</link>
       <pubDate>Sun, 15 Dec 2019 18:35:03 +0800</pubDate>
       
-      <guid>https://github-young.github.io/hugo-theme-next/post/ThirdTest/</guid>
+      <guid>http://localhost/post/ThirdTest/</guid>
       <description>&lt;p&gt;这里会出现在“阅读全文”之前，也会出现在首页。&lt;/p&gt;</description>
     </item>
     

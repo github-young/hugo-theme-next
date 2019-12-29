@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on 主标题</title>
-    <link>https://github-young.github.io/hugo-theme-next/tags/</link>
+    <link>http://localhost/tags/</link>
     <description>Recent content in Tags on 主标题</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <lastBuildDate>Sun, 15 Dec 2019 18:35:03 +0800</lastBuildDate>
     
-	<atom:link href="https://github-young.github.io/hugo-theme-next/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>中文标签名</title>
-      <link>https://github-young.github.io/hugo-theme-next/tags/%E4%B8%AD%E6%96%87%E6%A0%87%E7%AD%BE%E5%90%8D/</link>
+      <link>http://localhost/tags/%E4%B8%AD%E6%96%87%E6%A0%87%E7%AD%BE%E5%90%8D/</link>
       <pubDate>Sun, 15 Dec 2019 18:35:03 +0800</pubDate>
       
-      <guid>https://github-young.github.io/hugo-theme-next/tags/%E4%B8%AD%E6%96%87%E6%A0%87%E7%AD%BE%E5%90%8D/</guid>
+      <guid>http://localhost/tags/%E4%B8%AD%E6%96%87%E6%A0%87%E7%AD%BE%E5%90%8D/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Second Tags</title>
-      <link>https://github-young.github.io/hugo-theme-next/tags/Second-Tags/</link>
+      <link>http://localhost/tags/Second-Tags/</link>
       <pubDate>Sun, 15 Dec 2019 18:34:53 +0800</pubDate>
       
-      <guid>https://github-young.github.io/hugo-theme-next/tags/Second-Tags/</guid>
+      <guid>http://localhost/tags/Second-Tags/</guid>
       <description></description>
     </item>
     
     <item>
       <title>first</title>
-      <link>https://github-young.github.io/hugo-theme-next/tags/first/</link>
+      <link>http://localhost/tags/first/</link>
       <pubDate>Sun, 15 Dec 2019 18:34:46 +0800</pubDate>
       
-      <guid>https://github-young.github.io/hugo-theme-next/tags/first/</guid>
+      <guid>http://localhost/tags/first/</guid>
       <description></description>
     </item>
     

@@ -2,7 +2,7 @@
     
      <entry>
         <title>Posts</title>
-        <url>https://github-young.github.io/hugo-theme-next/post/</url>
+        <url>http://localhost/post/</url>
         <categories>
           
         </categories>
@@ -14,7 +14,7 @@
     
      <entry>
         <title>ThirdTest</title>
-        <url>https://github-young.github.io/hugo-theme-next/post/ThirdTest/</url>
+        <url>http://localhost/post/ThirdTest/</url>
         <categories>
           <category>中文分类名</category>
         </categories>
@@ -25,12 +25,14 @@
 第1级标题是总标题。 正文的标题从第2级标题开始。
 第2级标题 第3级标题 第4级标题 第5级标题  这是引用的文字。
  下面是代码。
-cout&amp;lt;&amp;lt;&amp;#34;Hello C&#43;&#43;&amp;#34;&amp;lt;&amp;lt;endl; sudo pacman -Syyu import numpy as np import matplotlib.pyplot as pl System.out.println(&amp;#34;Hello java&amp;#34;) Hello \LaTeX 插图测试 </content>
+cout&amp;lt;&amp;lt;&amp;#34;Hello C&#43;&#43;&amp;#34;&amp;lt;&amp;lt;endl; sudo pacman -Syyu import numpy as np import matplotlib.pyplot as pl System.out.println(&amp;#34;Hello java&amp;#34;) Hello \LaTeX 插图测试 居中测试 Hugo竟然不支持内嵌html语法，必须得用shortcode。。。太反人类了
+未居中
+内嵌视频   居中了吗？</content>
     </entry>
     
      <entry>
         <title>Second</title>
-        <url>https://github-young.github.io/hugo-theme-next/post/SecondPost/</url>
+        <url>http://localhost/post/SecondPost/</url>
         <categories>
           <category>AnotherCategoriy</category>
         </categories>
@@ -43,7 +45,7 @@ cout&amp;lt;&amp;lt;&amp;#34;Hello C&#43;&#43;&amp;#34;&amp;lt;&amp;lt;endl; sud
     
      <entry>
         <title>First</title>
-        <url>https://github-young.github.io/hugo-theme-next/post/FirstPost/</url>
+        <url>http://localhost/post/FirstPost/</url>
         <categories>
           <category>tech</category>
         </categories>
