@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Second Tags on 主标题</title>
-    <link>https://github-young.github.io/hugo-theme-next/tags/Second-Tags/</link>
-    <description>Recent content in Second Tags on 主标题</description>
+    <title>AnotherCategory on 主标题</title>
+    <link>https://github-young.github.io/hugo-theme-next/categories/AnotherCategory/</link>
+    <description>Recent content in AnotherCategory on 主标题</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <lastBuildDate>Sun, 15 Dec 2019 18:34:53 +0800</lastBuildDate>
     
-	<atom:link href="https://github-young.github.io/hugo-theme-next/tags/Second-Tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://github-young.github.io/hugo-theme-next/categories/AnotherCategory/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>

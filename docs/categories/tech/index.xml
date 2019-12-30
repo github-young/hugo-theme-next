@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>tech on 主标题</title>
-    <link>http://localhost/categories/tech/</link>
+    <link>https://github-young.github.io/hugo-theme-next/categories/tech/</link>
     <description>Recent content in tech on 主标题</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <lastBuildDate>Sun, 15 Dec 2019 18:34:46 +0800</lastBuildDate>
     
-	<atom:link href="http://localhost/categories/tech/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://github-young.github.io/hugo-theme-next/categories/tech/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>First</title>
-      <link>http://localhost/post/FirstPost/</link>
+      <link>https://github-young.github.io/hugo-theme-next/post/FirstPost/</link>
       <pubDate>Sun, 15 Dec 2019 18:34:46 +0800</pubDate>
       
-      <guid>http://localhost/post/FirstPost/</guid>
+      <guid>https://github-young.github.io/hugo-theme-next/post/FirstPost/</guid>
       <description>Test 1 ttest test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test testest test test test test test.</description>
     </item>
     

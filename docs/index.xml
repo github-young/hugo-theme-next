@@ -2,49 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>主标题</title>
-    <link>http://localhost/</link>
+    <link>https://github-young.github.io/hugo-theme-next/</link>
     <description>Recent content on 主标题</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 15 Dec 2019 18:36:05 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 30 Dec 2019 15:25:51 +0800</lastBuildDate>
     
-	<atom:link href="http://localhost/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://github-young.github.io/hugo-theme-next/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>关于</title>
-      <link>http://localhost/about/</link>
-      <pubDate>Sun, 15 Dec 2019 18:36:05 +0800</pubDate>
-      
-      <guid>http://localhost/about/</guid>
-      <description>关于 这里写关于信息。</description>
-    </item>
     
     <item>
-      <title>ThirdTest</title>
-      <link>http://localhost/post/ThirdTest/</link>
-      <pubDate>Sun, 15 Dec 2019 18:35:03 +0800</pubDate>
+      <title>Readme</title>
+      <link>https://github-young.github.io/hugo-theme-next/post/readme/</link>
+      <pubDate>Mon, 30 Dec 2019 15:25:51 +0800</pubDate>
       
-      <guid>http://localhost/post/ThirdTest/</guid>
-      <description>&lt;p&gt;这里会出现在“阅读全文”之前，也会出现在首页。&lt;/p&gt;</description>
+      <guid>https://github-young.github.io/hugo-theme-next/post/readme/</guid>
+      <description>&lt;p&gt;这里的文本会出现在首页，即“阅读全文”之前。&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Second</title>
-      <link>http://localhost/post/SecondPost/</link>
+      <link>https://github-young.github.io/hugo-theme-next/post/SecondPost/</link>
       <pubDate>Sun, 15 Dec 2019 18:34:53 +0800</pubDate>
       
-      <guid>http://localhost/post/SecondPost/</guid>
+      <guid>https://github-young.github.io/hugo-theme-next/post/SecondPost/</guid>
       <description>second test 中文测试测试。</description>
     </item>
     
     <item>
       <title>First</title>
-      <link>http://localhost/post/FirstPost/</link>
+      <link>https://github-young.github.io/hugo-theme-next/post/FirstPost/</link>
       <pubDate>Sun, 15 Dec 2019 18:34:46 +0800</pubDate>
       
-      <guid>http://localhost/post/FirstPost/</guid>
+      <guid>https://github-young.github.io/hugo-theme-next/post/FirstPost/</guid>
       <description>Test 1 ttest test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test testest test test test test test.</description>
+    </item>
+    
+    <item>
+      <title>关于</title>
+      <link>https://github-young.github.io/hugo-theme-next/about/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
+      
+      <guid>https://github-young.github.io/hugo-theme-next/about/</guid>
+      <description>关于 这里写关于信息。</description>
     </item>
     
   </channel>
