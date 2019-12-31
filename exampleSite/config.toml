@@ -2,7 +2,7 @@ Title =  "主标题"
 LanguageCode = "zh-CN"
 BaseUrl = "https://github-young.github.io/hugo-theme-next/"
 Theme =  "hugo-theme-next"
-MetaDataFormat =  "yaml"
+#MetaDataFormat =  "toml"
 CanonifyUrls =  true
 BuildDrafts =  false
 PaginatePath =  "p"
@@ -11,9 +11,6 @@ DisablePathToLower =  true
 HasCJKLanguage = true
 PreserveTaxonomyNames = true
 UglyUrls = false
-PygmentsStyle = "monokailight" # See [Color Schemes](https://xyproto.github.io/splash/docs/)
-pygmentsCodefences = true
-pygmentsCodefencesGuessSyntax = true
 DefaultContentLanguage = "zh"
 
 [Params]
@@ -65,3 +62,8 @@ DefaultContentLanguage = "zh"
   Icon = "github"
   URL = "https://github.com/github-young/"
 
+# See [Color Schemes](https://xyproto.github.io/splash/docs/)
+[markup]
+  [markup.highlight]
+    lineNos = true
+    style = "monokailight"
