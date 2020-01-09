@@ -63,6 +63,7 @@ Now I am working to transplant it to Next.Gemini scheme.
 
 The above work was done when I forked it.
 
+- [x] Fix the search function when baseUrl has subdomain. To get adapted on other sites, you need to modify the `` static/js/search.js ``. See the commit history.
 - [ ] Modification to Next.Gemini: 
    - [x] TOC in page
    - [x] Capital URL path in `` tags `` and `` categories ``
