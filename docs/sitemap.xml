@@ -1,8 +1,25 @@
 <search>
     
      <entry>
+        <title>ClipDict: Clipboard Dictionary</title>
+        <url>https://github-young.github.io/blog/post/ClipDict/</url>
+        <categories>
+          <category>Tech</category>
+        </categories>
+        <tags>
+          <tag>Linux</tag>
+        </tags>
+        <content type="html"> ClipDict &amp;ndash; 从剪贴板取词的命令行字典。
+演示 使用 下载 ClipDict 到本地，运行它即可：./ClipDict.sh。
+ClipDict 只是一个shell脚本，它依赖如下两个软件：
+ xclip dictd  请先安装它们：
+1  sudo pacman -S xclip dictd   注意：dictd只是一个字典软件，不自带词典。需要自己下载和配置本地中文词典。示例使用的是朗道中英文词典(langdao-ec)。【详情待补充】
+</content>
+    </entry>
+    
+     <entry>
         <title>Posts</title>
-        <url>https://github-young.github.io/hugo-theme-next/post/</url>
+        <url>https://github-young.github.io/blog/post/</url>
         <categories>
           
         </categories>
@@ -13,49 +30,189 @@
     </entry>
     
      <entry>
-        <title>Readme</title>
-        <url>https://github-young.github.io/hugo-theme-next/post/readme/</url>
+        <title>体验Deepin Linux</title>
+        <url>https://github-young.github.io/blog/post/DeepinLinux/</url>
         <categories>
-          <category>分类名</category>
+          <category>Tech</category>
         </categories>
         <tags>
-          <tag>标签1</tag><tag>标签2</tag>
+          <tag>Linux</tag><tag>Deepin</tag>
         </tags>
-        <content type="html"> 这里的文本会出现在首页，即“阅读全文”之前。
-此处向下是正文文本。
-第1级标题是总标题。 正文的标题从第2级标题开始。
-第2级标题 第3级标题 第4级标题 第5级标题 一些示例 下面是一个 itemize 列表（你也可以把 - 换成 1.  来得到一个 enumerate 列表）：
- 如要插入链接，请这样使用：你可以在这里学习使用markdown。 如要插图，请把图片放到 fig 文件夹，插图时这样使用：  如要插入 引用文字 或小段注解，请这样使用：  这是引用文字
-  如要插入 代码 ，请这样使用： 1 2 3 4 5  import numpy as np import matplotlib.pyplot as pl x = np.linspace(0, 2*np.pi, 100) y = np.sin(x) pl.plot(x, y)     一点吐槽 Hugo竟然不支持内嵌html语法，必须得用shortcode。。。太反人类了
-内嵌视频：   居中了吗？ 这个---表示画一条水平线，正文内容止步于此。
+        <content type="html"> 看到V站的帖子，以前只在虚拟机里装过，于是决定自己实机体验一下。
+安装 用了deepin自己的启动盘制作工具，不过装的时候发现竟然没有live环节直接安装，要想体验live还需要专门下载另一个iso文件。Intel 545s，安装大概花了20分钟。
+体验 进入系统感觉很漂亮，其次一个惊喜就是ubuntu上死活装不了的指纹识别竟然是开箱即用。当然最有吸引力的就是deepin的qq、微信等wine软件，使用体验不错，特别感谢deepin的努力解决了这个痛点。
+当然，问题总是有的。我发现我在win10和ubuntu1804上使用正常的 Fn&#43;左右方向键 在这里就不行，但是其它的 Fn&#43;功能键 是可以的。最终没能完美解决，我把 Caps_Lock&#43;方向键 映射成了 Home 和 End 。另外，在别的系统可以校园网接网线直接访问谷歌，这里也不行，折腾了两天，最后发现换成tuna的dns就解决了。
+总结 在Linux的范围里，从生产的角度，deepin不一定是最好的，但是从生活的角度，对于中国人我觉得是最好的。我准备放假给父母试用一下。
+ 后记 回家给父母试了，以没有Office被一票否决，1551&amp;hellip;
+后后记 Manjaro&#43;DDE 天下第一！
 </content>
     </entry>
     
      <entry>
-        <title>Second</title>
-        <url>https://github-young.github.io/hugo-theme-next/post/SecondPost/</url>
+        <title>我的2018</title>
+        <url>https://github-young.github.io/blog/post/2018/</url>
         <categories>
-          <category>AnotherCategory</category>
+          <category>Life</category>
         </categories>
         <tags>
-          <tag>Second Tags</tag>
+          <tag>Annual</tag><tag>2018</tag>
         </tags>
-        <content type="html"> second test 中文测试测试。
- </content>
+        <content type="html"> 2018年过去了，我也很怀念它。
+TL; DR 这一年简单来讲可以概括为：
+1 2 3 4 5  mylife checkout -b 保研 mylife checkout -b 申请 mylife merge 保研 mylife add . mylife commit -m &amp;#34;纠结但精彩的一年&amp;#34;   说详细点 本来打了一堆话，看着觉得有点消极，算了&amp;hellip;
+保研也好，申请也好，哪怕是父母之命的公务员也好，都过去了。回头看看这些经历挺有趣的，人生就是充满不确定性才有意思，相比之下我之前的生活太千篇一律了。
+还有了一次 幽默的短暂的初恋，是这一年的生活最大的亮点了吧。虽然幽默，但是我因此改变不少呢。展望 我在开学初列了一个Senior Year Resolution，除了脱单，列表上的其它items希望在毕业前一一实现。
+由于早睡压制，不得不push。
+来年また！(是的，今年还学了日语)
+</content>
     </entry>
     
      <entry>
-        <title>First</title>
-        <url>https://github-young.github.io/hugo-theme-next/post/FirstPost/</url>
+        <title>Summer Camp in 2018</title>
+        <url>https://github-young.github.io/blog/post/SummerCamp2018/</url>
         <categories>
-          <category>tech</category>
+          <category>Study</category>
         </categories>
         <tags>
-          <tag>first</tag>
+          <tag>夏令营</tag>
         </tags>
-        <content type="html"> Test 1 ttest test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test testest test test test test test.
-\LaTeX
- </content>
+        <content type="html"> 这是我2018年参加各个学校保研/申请夏令营的经历。
+清华叉院(2018年6月2-3日) 清华的夏令营分为笔试和面试两部分。笔试主要考与本科学过的四大力学，偏向量子力学。
+笔试回忆 2018年的笔试试题一共9题，共100分。
+ 6个原子的一维单原子链，问振动模式数和最低的振动频率。 考查角动量的相加、核自旋；精细结构和超精细结构；Zeeman效应。 估算5GHz下超导量子计算机的工作温度；解释为什么可见光量子计算机可以在常温下工作。 Maxwell Demon的错误之处。 给定波函数$\psi(x)$，求Hamiltonian中的势能V。 同轴电缆的电感和电容。 TEM(???)。 Abbe分辨率极限。 光子气体的分布函数，求总光子数和能量密度。  笔试过了，等一下午，晚上会公布通过笔试的人的名单。
+面试回忆 面试每个人10分钟，实际上并没有10分钟。由于有外国教授，所以原则上用英语进行，但实际上老师也会用中文提问，也用中文回答就行了。面试要准备一个英文的自我介绍，在讲的时候几乎没有老师听，他们都在翻阅你的资料。讲完了就开始提问，主要根据你的PS和简历等材料。
+值得注意的是国内(外校)保研的老师非常在意你出国的事情。我的经历里有过杜克的交换，还有托福成绩，他们很不喜欢学生拿了offer又出国。所以如果他们问你是不是要出国，一定想好了回答(i.e.表忠心)。
+PS. 建议不管出国还是保研都要套磁。2018年叉院的名额非常少。来了49个人参加夏令营，31个人通过了笔试，但只有10个人拿到了offer，南大来了9个录了4个(我被刷了555)。10个offer组成是清华3&#43;南大4&#43;浙大1&#43;其他2。所以能提前和导师联系的尽量联系。
+南大物院(2018年6月9日) 因为是自家的学校所以压力很小，物院给我们本校学生安排了一次推免面试，夏令营就不需要去了。
+面试回忆 面试时间不长，大概是10-15分钟。首先朗读一段英文语段(不一定是科研类的文章)，然后翻译大概意思。提问会结合你的简历和科研兴趣问一些专业相关问题，比如举一个量子纠缠的例子、量子力学在生活中的应用、核磁共振的原理等等。没有特别专业的问题。
+北大物院(2018年7月6-8日) 我报的是北大物院的量子材料中心(International Center of Quantum Materials)。其实并不喜欢做材料，只是报名的时候这个机构的名字是“量子中心”，就没细看报名了&amp;hellip;。夏令营有3天，要求第1天的上午报到，所以我们提前去北京并住了一晚。量子材料中心没有笔试，第1天是教授的讲座和参观实验室，第2天是面试，第3天查看结果、领取证书。量子材料中心的offer是以学院的名义，可以不分配导师，最迟可以到1年级末时再确定。北大物院的其它的研究中心好像都有笔试。
+面试回忆 首先是英语(应该是，不记得了)自我介绍，然后会根据你的介绍和简历提问。问题都是专业问题，一点也不水。记得的问题有：氢分子的Hamiltonian，Ising模型的配分函数、从x方向测量一个z的本征态的结果，以及我的研究内容里的一个问题。如果问到不会的就如实回答不会，还有讲自己的研究内容时别讲的过于夸张，万一老师反问一个问题你不懂，就尴尬了。 最后一天会集合，然后一个个叫名字上去领offer，过程比较浪费时间。
+上交物院(2018年7月9-12日) 我去上交参加夏令营只是因为一个做光量子芯片的老师，毕竟上交的物理专业充其量也只是和南大平分秋色。第1天全天用来报到，所以无需提前到上海。第2天全天用来听老师的讲座，第3天上午参观实验室，下午可以自行与教授面谈。正如前面提到的原因，报上交的南大——尤其是物理专业——的学生寥寥无几，我是南大唯一一个，所以面试也不要有什么压力，和导师面谈，导师觉得不错，应该就没有大问题。
+面试回忆 首先英文自我介绍。(插曲：当听说我来自Nanjing University时，面试老师都是一脸“这个学生是不是吃饱了撑的”的表情&amp;hellip;)介绍完了，继续用英语问了一些简单的问题比如为什么来交大夏令营，以后有什么研究计划。然后又换成中文。总体上没有什么专业问题，比较水，最后甚至问到了业余时间有什么爱好&amp;hellip;。
+香港中文大学物理系(2018年7月16-20日) 为什么想起来港中文？6月时港中文来了一个教授讲座，顺便打个招生广告，我顺手就报名了。虽然后来北大信科的夏令营也在同一时间，但是最终还是来了香港。
+港中文的日程安排比较奇怪，要求16日的下午3-4点报到。这就对前往香港的行程造成了影响，我先是上海坐动卧到广州，后坐广九直通车到达香港。港中文的夏令营有笔试和面试。17日上午笔试，下午是听讲座。18日上午听讲座，下午参观实验室。19日上午自行与教授面谈，下午面试。20日上午离开。
+笔试回忆 笔试时间为9-12点，题量比较大，分为力学、电磁学与光学、热统、量子力学4个方面，每个方面4个大题。大部分题目难度类似大物考试题，有的题目较难，用老师的话讲“比GRE Sub难很多”。记得的题目有：
+ 力学：碰撞与动量守恒、转动惯量与角动量守恒、2个粒子的一维单原子链的简正模； 电磁学与光学：静电场在两种介质界面的边界条件； 热统：Boltzmann分布的3个速度、谐振子的配分函数、推导Cp-Cv、Maxwell关系； 量子力学：角动量算符的本征值、微扰。  面试回忆 首先英语自我介绍，然后根据介绍内容、CV/PS和意向导师提问，当然都是英语问答。内容和上面的都差不多。不过结束时会问你有没有什么问题。
+香港科技大学物理系* 这个比较特殊。我没来得及报名港科的夏令营，但是心里想着反正要去一次香港参加港中文的夏令营，能不能直接联系教授呢？于是就给一个教授发了邮件，问问他能不能在不经过夏令营的情况下给出offer。Three Weeks Later&amp;hellip;他回复了邮件，并打电话进行了简单的了解。于是我在参加港中文夏令营的时候抽空去他的实验室参观了一下，但是当时他在上海出差，又没见面谈话。结果第2天他打了个电话，问了我对实验室的看法和以后的计划，就突然给了我offer，并且他知道我在参加港中文的夏令营且还没面试，所以要求当天晚上给出答复是否接受。看来至少港科是教授有极大的决定权，即弱committe制。
+后记 结果：THU被拒，PKU、SJTU、NJU、CUHK和HKUST给了offer。
+也许我参加的这些保研夏令营都不会派上用场了，我选择了港科。
+ （纯粹个人感受）物理专业的，能出国还是尽量出国。不要把出国想象得有多难，其实是我们院保研太容易造成的错觉。不过无论是保研还是出国，都尽量早做决定，不要像我一样到了暑假末才临时决定放弃保研，之前做了很多无用功，还是挺遗憾的。
+</content>
+    </entry>
+    
+     <entry>
+        <title>Duke Memory</title>
+        <url>https://github-young.github.io/blog/post/DukeMemory/</url>
+        <categories>
+          <category>Duke</category>
+        </categories>
+        <tags>
+          
+        </tags>
+        <content type="html"> 杜克项目结束了，把能想到的一些记在这里。
+很久以前的几句话：  一定要选Independent Study，不然导师很难找(欢迎明年的同学找FEL的Wu教授) 暑假一定要预习量子力学(教材：C-TDL) 记得带指甲剪和剪刀 一位不愿透露姓名的群主：如果你很浪，那一点都不愁foodpoints花不完 zcy：一定要选五星级酒店，300swift宿舍(我：在中校区)  新加的(大概按时间顺序)： 关于电话卡(7月) 往届同学都用的是中国电信美洲公司的电话卡，这张卡在安卓手机上的使用体验极差。基本上只能打电话和发短信，流量几乎无法使用，因为根本没有信号。奇怪的是在苹果手机上可以正常使用。
+结论就是如果你在美国非常需要稳定可靠的流量，请不要使用它。当然，Duke里面都有WiFi，如果不出去旅游，使用它应该还可以。毕竟还有每人10刀的优惠(充值的时候使用优惠码，双方都可以加10刀话费)。比如我的推荐码深入人心，所以我一共获得了90刀的话费，一学期没充钱嘿嘿嘿。
+除了中国电信美洲公司的卡，还可以办美国运营商的，比如bz就办了AT&amp;amp;T的，使用体验当然十分好，就是贵了点。
+关于银行卡(8月底) 到美国，一张当地银行卡可以说是必备的，Duke周围比较好办的就三家：BoA, Suntrust, Wells Fargo. 其中Suntrust距离西校区最近，因此这一届大部分同学都办的是Suntrust，还有少数几位同学办的是BoA，而Wells Fargo在东校区附近，今年没有人办。
+经过一学期的切身体会，大家一致觉得BoA的银行卡最好。理由如下：Suntrust有“月费”3刀，BoA没有；BoA是大银行而Suntrust是小银行，去纽约旅游的时候，路上就没找到Suntrust的ATM机；给学校账单付款的时候，Suntrust失败过两次(LHZ同学)，最后使用BoA成功。
+当然，BoA有一个缺点，它的支行离学校比较远，要打车去。
+PS：在没办当地银行卡前，确实可以先用国内办的VISA卡用，甚至南大的工行卡也可以直接在ATM机上取出美元，但是建议只在大公司和校内机构用，因为据说国内的卡在美国被盗刷会很麻烦。等办了美国银行卡，就尽量用美国的卡，这样即使盗刷，处理起来会简单得多。
+关于采购物资(8月底) 离Duke最近的超市应该就是大约10分钟车程的Target。开学初肯定要去一次的，买齐生活用品，毕竟不像国内买东西这么方便。当然Duke里有校园超市Duke Store，就是比较贵，偶尔也会买点东西。开学前学校会组织一次免费的往返Target的活动，建议那个时候去，我去年错过了就打uber去的。
+基本上去Target买了各种生活用品，但有几个坑注意一下：台灯和电热水壶完全没必要买。我一开始到美国面对没有热水的生活确实不放心，结果买了热水壶就没用过(相信我，你们很快就能习惯早起喝一大口冷水的生活)。洗衣液都是2L这样的大桶，建议一栋楼的几个人一起买共用，我到学期末连三分之一都没用完。其它的东西自己到那应该心里有点数的。
+Target旁边就是黎明电推华人超市，可以买到看上去十分亲切的东西(没找到辣条)。基本上我们把它当做菜市场，买肉买菜买铁锅等等。
+关于不务正业(8~12月) Duke宿舍里的commons room真是比南大不知道高到哪里去好太多了。这就是表白墙常见的“可以大声讲话、自由活动、又不影响别人的封闭室内空间”。
+Duke给每个学生提供了3D打印的资源，大家可以薅资本主义的羊毛提高动手能力。我看到陈列区有人打印了Pickle Rick和刺客信条里的袖剑。关于3D打印的使用方法，可以看我的另一篇文章。
+</content>
+    </entry>
+    
+     <entry>
+        <title>3D Print At Duke</title>
+        <url>https://github-young.github.io/blog/post/3DPrintAtDuke/</url>
+        <categories>
+          <category>Duke</category>
+        </categories>
+        <tags>
+          <tag>3D print</tag>
+        </tags>
+        <content type="html"> 简介如何使用Duke的3D打印系统 3D打印需要模型和打印机，Duke为我们提供了免费的打印机时和打印材料，我们需要提供模型。
+模型 可以自己制作模型，也可以下载别人做好的模型。自己制作模型可以选择Google的SketchUp，简单易于上手；而ECE230L的Lab section是要求用AutoCAD，不过课上TA会教你使用(真是step by step)。若不想自己做，就可以直接用现成的。
+Duke打印机使用的模型文件扩展名为 .stl，可以直接Google “3d print model” &#43; 你要的模型名字，比如 “Rick and Morty 3d print model”；也可以到一些专门的3d模型网站，如yeggi、thingiverse搜索。找到以后下载.stl文件。
+打印   打开Duke的3D打印网站，点击左上角Sign In，选择SSO，选择Duke University，然后使用你的Duke NetID登录。
+  初次登录进去，会弹出一个上传文件的框，你可以直接上传文件，也可以稍后上传。当你想上传文件时，推荐选择Project，而不是file。
+  在My Project页面，右侧点击Add Files，选择Project，然后输入一个项目名字，比如test，然后点choose file，上传你的.stl文件，比如test.stl。如图(1)。
+  上传完毕后，点开test这个项目，这是里面有一个test.stl文件。后面的都是重点：
+  先点击test.stl文件最右边的三个点的按钮，选择弹出页面中的第一个：“STL Editor”，这就打开了.stl文件的编辑器。可以对模型进行调整，以适应打印。
+  在STL Editor中，可以用右键旋转观察角度，按住滚轮移动模型。Editor左上角有Move、Rotate、Scale三个选项，可以旋转、缩放。记住两点：
+ 打印机的尺寸大概为20x20x20cm，一定要查看文件的Scale是不是符合 不管什么操作后，保存之前一定要点一下右下角的On Bed,这是为了确保模型贴在平面上，不能悬空。    所有操作结束后就点Save。
+ 保存之后等待一会，你会发现test项目里多了一个类似叫test_123456.stl的文件，这个就是你修改过的文件，然后点击这个test_123456.stl文件最右边的Slice，弹出的界面里三个参数可以不调，直接点Slice。
+  等待一会，你会发现test项目里又多了一个test_123456.gcode文件，这个就是真正用来打印的文件。点击test_123456.gcode文件最右边的Print按钮，在弹出的打印机列表里选择可以打印的打印机就可以了。如图(2)。
+记住： &#43; 打印之前最好先点一下“Live View”，确认打印机上是空的。 &#43; Lily开头的是东校区的，TEC开头的才是西校区的。
+  整个过程你会收到很多邮件，最后打印完成时会收到邮件提示。TEC楼在Bostock图书馆和Duke Card Office中间，如图(3).
+  ~~ THE END ~~
+</content>
+    </entry>
+    
+     <entry>
+        <title>TeamViewer</title>
+        <url>https://github-young.github.io/blog/post/teamviewer/</url>
+        <categories>
+          <category>Tech</category>
+        </categories>
+        <tags>
+          
+        </tags>
+        <content type="html"> TeamViewer是一款著名的国外远程桌面软件，其特点是可以实现内网穿透，即可以从外网连接到内网中的电脑。
+你可以在其官网上下载它。为了更好地使用TV，建议你注册一个账号，用邮箱即可。打开TV，在方框中输入待连接的电脑的IP地址或ID，点击“连接”后输入密码即可实现远程桌面。另一种方式，也是我推荐的方式，是在远程电脑和本地电脑都登录自己的账号，并添加到自己的通讯列表中，下次使用时只需双击通讯列表中的名字即可连接。
+</content>
+    </entry>
+    
+     <entry>
+        <title>Inauguration</title>
+        <url>https://github-young.github.io/blog/post/inauguration/</url>
+        <categories>
+          <category>Duke</category>
+        </categories>
+        <tags>
+          
+        </tags>
+        <content type="html"> New President! 今天是杜克第10任校长Vincent E. Price的就职典礼， 本来觉得和我没什么关系，但是晚上有自助晚宴，吃得很舒服，于是就觉得和我有那么一点关系了。
+先占个坑，以后慢慢写。
+-20171014更新-
+不写了，坑不填了。
+</content>
+    </entry>
+    
+     <entry>
+        <title>中秋快乐</title>
+        <url>https://github-young.github.io/blog/post/happymidautumn/</url>
+        <categories>
+          <category>Duke</category>
+        </categories>
+        <tags>
+          
+        </tags>
+        <content type="html"> 中秋快乐！ 这是在美国过的国庆和中秋。在国内的中秋并没有想起来吃旁海，现在在国外突然想吃，甚至超过月饼。可能是旁海比月饼贵吧。
+</content>
+    </entry>
+    
+     <entry>
+        <title>测试</title>
+        <url>https://github-young.github.io/blog/post/test/</url>
+        <categories>
+          <category>Tech</category>
+        </categories>
+        <tags>
+          <tag>test</tag>
+        </tags>
+        <content type="html"> 第一篇: 测试 在雨橙柠大佬的带带我下，我了解了hexo。这是我的第一篇hexo博客，我也不知道写啥。
+如何使用github&#43;hexo搭建博客：简书文章1、简书文章2、CSDN文章。
+什么是LF和CRLF?
+记录遇到的坑和解决办法： 查看hexo各插件： npm ls --depth 0，然后依次安装缺失的插件。
+贴图： 在source下新建一个figure文件夹，这样hexo g &amp;amp;&amp;amp; hexo d的时候就会把它移动到public目录。插图时只要插/figure/xxx即可。
+设置tags： hexo n page tags 然后修改source/tags/index.md为：
+1 2 3 4  title: tags date: xxxx-xx-xx xx:xx:xx type: &amp;#34;tags&amp;#34; comments: false   配置_config.yml： 站点配置文件：设置language和themes。 主题配置文件：设置menu和scheme(for NexT)。
+设置archive/archives：  在站点配置文件里添加：  archive_generator: per_page: 10 yearly: true monthly: true daily: false order_by: -date  在主题配置文件里面修改archive或archives的顺序。  测试放图 图片:
+</content>
     </entry>
     
 </search>
