@@ -1,49 +1,76 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on 主标题</title>
-    <link>https://github-young.github.io/hugo-theme-next/tags/</link>
-    <description>Recent content in Tags on 主标题</description>
+    <title>Tags on Young&#39;s Blog</title>
+    <link>https://github-young.github.io/blog/tags/</link>
+    <description>Recent content in Tags on Young&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 30 Dec 2019 15:25:51 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jan 2020 21:02:14 +0800</lastBuildDate>
     
-	<atom:link href="https://github-young.github.io/hugo-theme-next/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://github-young.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>标签1</title>
-      <link>https://github-young.github.io/hugo-theme-next/tags/%E6%A0%87%E7%AD%BE1/</link>
-      <pubDate>Mon, 30 Dec 2019 15:25:51 +0800</pubDate>
+      <title>Linux</title>
+      <link>https://github-young.github.io/blog/tags/Linux/</link>
+      <pubDate>Thu, 09 Jan 2020 21:02:14 +0800</pubDate>
       
-      <guid>https://github-young.github.io/hugo-theme-next/tags/%E6%A0%87%E7%AD%BE1/</guid>
+      <guid>https://github-young.github.io/blog/tags/Linux/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>标签2</title>
-      <link>https://github-young.github.io/hugo-theme-next/tags/%E6%A0%87%E7%AD%BE2/</link>
-      <pubDate>Mon, 30 Dec 2019 15:25:51 +0800</pubDate>
+      <title>Deepin</title>
+      <link>https://github-young.github.io/blog/tags/Deepin/</link>
+      <pubDate>Sat, 05 Jan 2019 14:49:33 +0000</pubDate>
       
-      <guid>https://github-young.github.io/hugo-theme-next/tags/%E6%A0%87%E7%AD%BE2/</guid>
+      <guid>https://github-young.github.io/blog/tags/Deepin/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Second Tags</title>
-      <link>https://github-young.github.io/hugo-theme-next/tags/Second-Tags/</link>
-      <pubDate>Sun, 15 Dec 2019 18:34:53 +0800</pubDate>
+      <title>2018</title>
+      <link>https://github-young.github.io/blog/tags/2018/</link>
+      <pubDate>Tue, 01 Jan 2019 23:10:18 +0000</pubDate>
       
-      <guid>https://github-young.github.io/hugo-theme-next/tags/Second-Tags/</guid>
+      <guid>https://github-young.github.io/blog/tags/2018/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>first</title>
-      <link>https://github-young.github.io/hugo-theme-next/tags/first/</link>
-      <pubDate>Sun, 15 Dec 2019 18:34:46 +0800</pubDate>
+      <title>Annual</title>
+      <link>https://github-young.github.io/blog/tags/Annual/</link>
+      <pubDate>Tue, 01 Jan 2019 23:10:18 +0000</pubDate>
       
-      <guid>https://github-young.github.io/hugo-theme-next/tags/first/</guid>
+      <guid>https://github-young.github.io/blog/tags/Annual/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>夏令营</title>
+      <link>https://github-young.github.io/blog/tags/%E5%A4%8F%E4%BB%A4%E8%90%A5/</link>
+      <pubDate>Sun, 03 Jun 2018 23:52:52 +0000</pubDate>
+      
+      <guid>https://github-young.github.io/blog/tags/%E5%A4%8F%E4%BB%A4%E8%90%A5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3D print</title>
+      <link>https://github-young.github.io/blog/tags/3D-print/</link>
+      <pubDate>Fri, 10 Nov 2017 21:45:00 +0000</pubDate>
+      
+      <guid>https://github-young.github.io/blog/tags/3D-print/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>test</title>
+      <link>https://github-young.github.io/blog/tags/test/</link>
+      <pubDate>Mon, 02 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://github-young.github.io/blog/tags/test/</guid>
       <description></description>
     </item>
     
