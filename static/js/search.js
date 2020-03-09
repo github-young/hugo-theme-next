@@ -3,7 +3,7 @@ $(document).ready(function () {
     var isfetched = false;
     // Search DB path;
     var search_path = "sitemap.xml";
-    var path = "/hugo-theme-next/" + search_path;
+    var path = "/blog/" + search_path;
     // monitor main search box;
     function proceedsearch() {
       $("body").append('<div class="popoverlay">').css('overflow', 'hidden');
