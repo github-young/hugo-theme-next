@@ -1,49 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Young&#39;s Blog</title>
-    <link>https://github-young.github.io/blog/categories/</link>
-    <description>Recent content in Categories on Young&#39;s Blog</description>
+    <title>Categories on 主标题</title>
+    <link>https://github-young.github.io/hugo-theme-next/categories/</link>
+    <description>Recent content in Categories on 主标题</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 09 Jan 2020 21:02:14 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 30 Dec 2019 15:25:51 +0800</lastBuildDate>
     
-	<atom:link href="https://github-young.github.io/blog/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://github-young.github.io/hugo-theme-next/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Tech</title>
-      <link>https://github-young.github.io/blog/categories/Tech/</link>
-      <pubDate>Thu, 09 Jan 2020 21:02:14 +0800</pubDate>
+      <title>分类名</title>
+      <link>https://github-young.github.io/hugo-theme-next/categories/%E5%88%86%E7%B1%BB%E5%90%8D/</link>
+      <pubDate>Mon, 30 Dec 2019 15:25:51 +0800</pubDate>
       
-      <guid>https://github-young.github.io/blog/categories/Tech/</guid>
+      <guid>https://github-young.github.io/hugo-theme-next/categories/%E5%88%86%E7%B1%BB%E5%90%8D/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Life</title>
-      <link>https://github-young.github.io/blog/categories/Life/</link>
-      <pubDate>Tue, 01 Jan 2019 23:10:18 +0000</pubDate>
+      <title>AnotherCategory</title>
+      <link>https://github-young.github.io/hugo-theme-next/categories/AnotherCategory/</link>
+      <pubDate>Sun, 15 Dec 2019 18:34:53 +0800</pubDate>
       
-      <guid>https://github-young.github.io/blog/categories/Life/</guid>
+      <guid>https://github-young.github.io/hugo-theme-next/categories/AnotherCategory/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Study</title>
-      <link>https://github-young.github.io/blog/categories/Study/</link>
-      <pubDate>Sun, 03 Jun 2018 23:52:52 +0000</pubDate>
+      <title>tech</title>
+      <link>https://github-young.github.io/hugo-theme-next/categories/tech/</link>
+      <pubDate>Sun, 15 Dec 2019 18:34:46 +0800</pubDate>
       
-      <guid>https://github-young.github.io/blog/categories/Study/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Duke</title>
-      <link>https://github-young.github.io/blog/categories/Duke/</link>
-      <pubDate>Wed, 27 Dec 2017 16:44:01 +0000</pubDate>
-      
-      <guid>https://github-young.github.io/blog/categories/Duke/</guid>
+      <guid>https://github-young.github.io/hugo-theme-next/categories/tech/</guid>
       <description></description>
     </item>
     
