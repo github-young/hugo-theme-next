@@ -44,13 +44,15 @@ draft = false
    ```
 
 ## 一点吐槽
+
 Hugo竟然不支持内嵌html语法，必须得用`` shortcode ``。。。太反人类了
+
+<p style="color:red">不过我发现了可以正常使用html的方法，参考<a href="https://github.com/flysnow-org/maupassant-hugo/issues/84">这里</a>。</p>
 
 内嵌视频：
 {{< youtube 2xkNJL4gJ9E >}}
 
 {{< center >}} 居中了吗？ {{< /center >}}
-
 
 这个`` --- ``表示画一条水平线，正文内容止步于此。
 

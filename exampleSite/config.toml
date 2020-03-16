@@ -61,7 +61,13 @@ Paginate = 8
   URL = "https://github.com/"
 
 # See [Color Schemes](https://xyproto.github.io/splash/docs/)
+# See [inline html](https://github.com/flysnow-org/maupassant-hugo/issues/84)
+
 [markup]
+  defaultMarkdownHandler = "goldmark"
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
   [markup.highlight]
     lineNos = true
     style = "monokailight"
