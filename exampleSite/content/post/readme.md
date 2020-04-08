@@ -45,14 +45,14 @@ draft = false
 
 ## 一点吐槽
 
-Hugo竟然不支持内嵌html语法，必须得用`` shortcode ``。。。太反人类了
+**注：后来发现其实可以使用html，参考[这里](https://github.com/flysnow-org/maupassant-hugo/issues/84)。**
 
-<p style="color:red">不过我发现了可以正常使用html的方法，参考<a href="https://github.com/flysnow-org/maupassant-hugo/issues/84">这里</a>。</p>
+Hugo(>=0.60版本)竟然不支持内嵌html语法，必须得用`` shortcode ``。。。太反人类了
 
-内嵌视频：
-{{< youtube 2xkNJL4gJ9E >}}
-
-{{< center >}} 居中了吗？ {{< /center >}}
+- shortcode之一：内嵌Youtube视频
+  {{< youtube 2xkNJL4gJ9E >}}
+- shortcode之二：自定义shortcode
+  {{< center >}} 居中了吗？ {{< /center >}}
 
 这个`` --- ``表示画一条水平线，正文内容止步于此。
 
